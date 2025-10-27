@@ -114,7 +114,7 @@ The purpose of this project is to:
 
 ---
 
-## 📊 Example Visuals
+## 📊Visuals
 **Dashboards & Charts**
 - Revenue by Product Category (Bar Chart)  
 - Peak Sales by Time Interval (Line Chart)  
