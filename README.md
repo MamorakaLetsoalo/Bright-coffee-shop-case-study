@@ -10,7 +10,7 @@ Using historical transactional data, this analysis identifies revenue trends, to
 The purpose of this project is to:
 - Support the CEO in understanding **sales performance** across time and product categories.  
 - Provide **data-backed recommendations** for improving business operations and product mix.  
-- Develop a **reproducible data analysis pipeline** using SQL, Excel, Power BI, and visualization tools.  
+
 
 ---
 
